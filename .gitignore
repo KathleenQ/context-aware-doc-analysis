@@ -6,3 +6,4 @@ preprocessed/oag_raw
 preprocess_output
 models
 finetune_models
+*.zip
